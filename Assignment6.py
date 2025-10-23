@@ -8,7 +8,7 @@ while start<len(student):
     print(f"key:{key}  value:{value}")
     start+=1
     
- #Bubble sort
+ #Bubble sort technique
 lst=[5,2,1,4,3]
 print(f"Before sorting:{lst}")
 n=len(lst)
