@@ -1,5 +1,5 @@
 def read_marks(filename):
-    """Reads student marks from file and stores them in a dictionary"""
+   
     students = {}
 
     try:
